@@ -1,0 +1,1 @@
+Simple journaling application that uses Python and SQLite for storing journal entries locally. 
